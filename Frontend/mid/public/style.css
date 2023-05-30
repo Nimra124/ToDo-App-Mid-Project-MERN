@@ -1,0 +1,13 @@
+
+
+.set{
+    display: flex;
+    justify-content:space-around;
+    position:absolute;
+    left: 800px;
+    top:400px;
+}
+.contain
+{
+    height:500px !important;
+}
